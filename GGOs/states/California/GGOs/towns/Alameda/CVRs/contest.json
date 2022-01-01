@@ -1,18 +1,43 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0007/23a041337c",
+        "cast_branch": "CVRs/0000/f9715c8499",
         "choices": [
-            true,
-            false
+            {
+                "name": "Mitt Romney",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Phil Scott",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Ron DeSantis",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Kamala Harris",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "Cory Booker",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "Beta O'rourke",
+                "party": "Triangle Party"
+            }
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
-        "max": 1,
-        "name": "Question 2 - new firehouse land purchase",
+        "ggo": "GGOs/states/California",
+        "name": "US president",
         "selection": [
-            "1: no"
+            "3: Kamala Harris",
+            "0: Mitt Romney",
+            "1: Phil Scott",
+            "4: Cory Booker",
+            "5: Beta O'rourke",
+            "2: Ron DeSantis"
         ],
-        "tally": "plurality",
-        "uid": "0007",
-        "win-by": "2/3"
+        "tally": "rcv",
+        "uid": "0000"
     }
 }
