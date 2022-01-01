@@ -1,1 +1,33 @@
-c1TOwxG6LayDQ4jSn4Fi7lz1y/RbLe5sy52AO7wznizr8i/AnrA6Qs2CtTwNBHuX
+{
+    "CVR": {
+        "cast_branch": "CVRs/0005/87639eb38e",
+        "choices": [
+            {
+                "name": "Twenty Seven",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Twenty Eight",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "Jane Doe",
+                "party": "Pentagon Party"
+            },
+            {
+                "name": "John Doe",
+                "party": "Rectangle Party"
+            }
+        ],
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
+        "name": "mayor",
+        "selection": [
+            "1: Twenty Eight",
+            "0: Twenty Seven",
+            "3: John Doe",
+            "2: Jane Doe"
+        ],
+        "tally": "rcv",
+        "uid": "0005"
+    }
+}
