@@ -1,6 +1,6 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0002/fc6dbb8827",
+        "cast_branch": "CVRs/0002/bb6557b5cf",
         "choices": [
             {
                 "name": "Brian Kemp",
@@ -15,7 +15,7 @@
         "max": 1,
         "name": "governor",
         "selection": [
-            "1: Bernie Sanders"
+            "0: Brian Kemp"
         ],
         "tally": "plurality",
         "uid": "0002"
