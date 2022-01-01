@@ -1,1 +1,23 @@
-Moo66hXhOuJxvewSGDALOaanYB3ipOV+s+n5VxDqYCSfQU1z/H3KGAZ5+GFPwDlN
+{
+    "CVR": {
+        "cast_branch": "CVRs/0002/984b752d0c",
+        "choices": [
+            {
+                "name": "Brian Kemp",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Bernie Sanders",
+                "party": "Triangle Party"
+            }
+        ],
+        "ggo": "GGOs/states/California",
+        "max": 1,
+        "name": "governor",
+        "selection": [
+            "1: Bernie Sanders"
+        ],
+        "tally": "plurality",
+        "uid": "0002"
+    }
+}
