@@ -1,6 +1,6 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0000/38b7e01bd9",
+        "cast_branch": "CVRs/0000/bc001531b8",
         "choices": [
             {
                 "name": "Mitt Romney",
@@ -31,11 +31,11 @@
         "name": "US president",
         "selection": [
             "1: Phil Scott",
+            "3: Kamala Harris",
             "5: Beta O'rourke",
             "0: Mitt Romney",
-            "3: Kamala Harris",
-            "4: Cory Booker",
-            "2: Ron DeSantis"
+            "2: Ron DeSantis",
+            "4: Cory Booker"
         ],
         "tally": "rcv",
         "uid": "0000"
