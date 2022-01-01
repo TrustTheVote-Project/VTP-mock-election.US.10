@@ -1,43 +1,33 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0000/f56ea39e60",
+        "cast_branch": "CVRs/0005/8341ad37d7",
         "choices": [
             {
-                "name": "Mitt Romney",
+                "name": "Twenty Seven",
                 "party": "Circle Party"
             },
             {
-                "name": "Phil Scott",
-                "party": "Circle Party"
-            },
-            {
-                "name": "Ron DeSantis",
-                "party": "Circle Party"
-            },
-            {
-                "name": "Kamala Harris",
+                "name": "Twenty Eight",
                 "party": "Triangle Party"
             },
             {
-                "name": "Cory Booker",
-                "party": "Triangle Party"
+                "name": "Jane Doe",
+                "party": "Pentagon Party"
             },
             {
-                "name": "Beta O'rourke",
-                "party": "Triangle Party"
+                "name": "John Doe",
+                "party": "Rectangle Party"
             }
         ],
-        "ggo": "GGOs/states/California",
-        "name": "US president",
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
+        "name": "mayor",
         "selection": [
-            "5: Beta O'rourke",
-            "1: Phil Scott",
-            "4: Cory Booker",
-            "0: Mitt Romney",
-            "3: Kamala Harris",
-            "2: Ron DeSantis"
+            "0: Twenty Seven",
+            "2: Jane Doe",
+            "1: Twenty Eight",
+            "3: John Doe"
         ],
         "tally": "rcv",
-        "uid": "0000"
+        "uid": "0005"
     }
 }
