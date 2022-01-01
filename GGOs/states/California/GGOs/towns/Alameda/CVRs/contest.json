@@ -1,6 +1,6 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0003/4232b2a5ab",
+        "cast_branch": "CVRs/0003/cb2be1972f",
         "choices": [
             "Jean-Luc Picard",
             "Huckleberry Finn",
@@ -10,7 +10,7 @@
         "max": 1,
         "name": "County Clerk",
         "selection": [
-            "0: Jean-Luc Picard"
+            "2: Peggy Carter"
         ],
         "tally": "plurality",
         "uid": "0003"
