@@ -1,6 +1,6 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0006/7025dc84d4",
+        "cast_branch": "CVRs/0006/157c936ea8",
         "choices": [
             true,
             false
@@ -9,7 +9,7 @@
         "max": 1,
         "name": "Question 1 - school budget override",
         "selection": [
-            "1: no"
+            "0: yes"
         ],
         "tally": "plurality",
         "uid": "0006"
