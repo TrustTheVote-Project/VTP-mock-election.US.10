@@ -1,43 +1,18 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0000/54aaeef028",
+        "cast_branch": "CVRs/0003/62beeeddc9",
         "choices": [
-            {
-                "name": "Mitt Romney",
-                "party": "Circle Party"
-            },
-            {
-                "name": "Phil Scott",
-                "party": "Circle Party"
-            },
-            {
-                "name": "Ron DeSantis",
-                "party": "Circle Party"
-            },
-            {
-                "name": "Kamala Harris",
-                "party": "Triangle Party"
-            },
-            {
-                "name": "Cory Booker",
-                "party": "Triangle Party"
-            },
-            {
-                "name": "Beta O'rourke",
-                "party": "Triangle Party"
-            }
+            "Jean-Luc Picard",
+            "Huckleberry Finn",
+            "Peggy Carter"
         ],
-        "ggo": "GGOs/states/California",
-        "name": "US president",
+        "ggo": "GGOs/states/California/GGOs/counties/Alameda",
+        "max": 1,
+        "name": "County Clerk",
         "selection": [
-            "3: Kamala Harris",
-            "1: Phil Scott",
-            "4: Cory Booker",
-            "0: Mitt Romney",
-            "2: Ron DeSantis",
-            "5: Beta O'rourke"
+            "0: Jean-Luc Picard"
         ],
-        "tally": "rcv",
-        "uid": "0000"
+        "tally": "plurality",
+        "uid": "0003"
     }
 }
