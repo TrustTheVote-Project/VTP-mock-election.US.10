@@ -1,18 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0007/e4e32c3a78",
+        "cast_branch": "CVRs/0002/db561c0cf6",
         "choices": [
-            true,
-            false
+            {
+                "name": "Brian Kemp",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Bernie Sanders",
+                "party": "Triangle Party"
+            }
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
+        "ggo": "GGOs/states/California",
         "max": 1,
-        "name": "Question 2 - new firehouse land purchase",
+        "name": "governor",
         "selection": [
-            "0: yes"
+            "0: Brian Kemp"
         ],
         "tally": "plurality",
-        "uid": "0007",
-        "win-by": "2/3"
+        "uid": "0002"
     }
 }
