@@ -1,18 +1,33 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0003/64c2f25606",
+        "cast_branch": "CVRs/0001/6797713cee",
         "choices": [
-            "Jean-Luc Picard",
-            "Huckleberry Finn",
-            "Peggy Carter"
+            {
+                "name": "Larry Hogan",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Greg Abbott",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Pramila Jayapal",
+                "party": "Triangle Circle Party"
+            },
+            {
+                "name": "Alexandria Ocasio-Cortez",
+                "party": "Triangle Party"
+            }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda",
-        "max": 1,
-        "name": "County Clerk",
+        "ggo": "GGOs/states/California",
+        "name": "US senate",
         "selection": [
-            "0: Jean-Luc Picard"
+            "0: Larry Hogan",
+            "3: Alexandria Ocasio-Cortez",
+            "2: Pramila Jayapal",
+            "1: Greg Abbott"
         ],
-        "tally": "plurality",
-        "uid": "0003"
+        "tally": "rcv",
+        "uid": "0001"
     }
 }
