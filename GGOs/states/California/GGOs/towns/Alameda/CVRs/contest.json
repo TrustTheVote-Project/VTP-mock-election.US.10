@@ -1,23 +1,43 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0002/79dfa46f5a",
+        "cast_branch": "CVRs/0000/14fbb2f596",
         "choices": [
             {
-                "name": "Brian Kemp",
+                "name": "Mitt Romney",
                 "party": "Circle Party"
             },
             {
-                "name": "Bernie Sanders",
+                "name": "Phil Scott",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Ron DeSantis",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Kamala Harris",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "Cory Booker",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "Beta O'rourke",
                 "party": "Triangle Party"
             }
         ],
         "ggo": "GGOs/states/California",
-        "max": 1,
-        "name": "governor",
+        "name": "US president",
         "selection": [
-            "0: Brian Kemp"
+            "2: Ron DeSantis",
+            "0: Mitt Romney",
+            "5: Beta O'rourke",
+            "1: Phil Scott",
+            "4: Cory Booker",
+            "3: Kamala Harris"
         ],
-        "tally": "plurality",
-        "uid": "0002"
+        "tally": "rcv",
+        "uid": "0000"
     }
 }
