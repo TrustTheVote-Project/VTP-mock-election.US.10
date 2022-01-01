@@ -1,1 +1,33 @@
-cm6eC9Nl7RsMjeNT4I6j061ELNfs7Wd0sy/450v1YSOBdISKooaeL9PvMuVbahUr
+{
+    "CVR": {
+        "cast_branch": "CVRs/0001/07100b5c11",
+        "choices": [
+            {
+                "name": "Larry Hogan",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Greg Abbott",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Pramila Jayapal",
+                "party": "Triangle Circle Party"
+            },
+            {
+                "name": "Alexandria Ocasio-Cortez",
+                "party": "Triangle Party"
+            }
+        ],
+        "ggo": "GGOs/states/California",
+        "name": "US senate",
+        "selection": [
+            "3: Alexandria Ocasio-Cortez",
+            "0: Larry Hogan",
+            "2: Pramila Jayapal",
+            "1: Greg Abbott"
+        ],
+        "tally": "rcv",
+        "uid": "0001"
+    }
+}
