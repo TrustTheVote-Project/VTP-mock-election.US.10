@@ -1,17 +1,18 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0006/3d5fe206e4",
+        "cast_branch": "CVRs/0003/c5fff2f448",
         "choices": [
-            true,
-            false
+            "Jean-Luc Picard",
+            "Huckleberry Finn",
+            "Peggy Carter"
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
+        "ggo": "GGOs/states/California/GGOs/counties/Alameda",
         "max": 1,
-        "name": "Question 1 - school budget override",
+        "name": "County Clerk",
         "selection": [
-            "1: no"
+            "1: Huckleberry Finn"
         ],
         "tally": "plurality",
-        "uid": "0006"
+        "uid": "0003"
     }
 }
