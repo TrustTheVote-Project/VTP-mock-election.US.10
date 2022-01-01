@@ -1,6 +1,6 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0007/2a4b4136f9",
+        "cast_branch": "CVRs/0007/64177821be",
         "choices": [
             true,
             false
@@ -9,7 +9,7 @@
         "max": 1,
         "name": "Question 2 - new firehouse land purchase",
         "selection": [
-            "0: yes"
+            "1: no"
         ],
         "tally": "plurality",
         "uid": "0007",
