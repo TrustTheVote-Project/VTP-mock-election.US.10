@@ -1,1 +1,18 @@
-R2LC40bNvlF/TbxTO2IWomQ2Tk2EPlBIbllCDxl0zqAonJX5QTlyRZG2JlypOnaD
+{
+    "CVR": {
+        "cast_branch": "CVRs/0003/c547a2df20",
+        "choices": [
+            "Jean-Luc Picard",
+            "Huckleberry Finn",
+            "Peggy Carter"
+        ],
+        "ggo": "GGOs/states/California/GGOs/counties/Alameda",
+        "max": 1,
+        "name": "County Clerk",
+        "selection": [
+            "2: Peggy Carter"
+        ],
+        "tally": "plurality",
+        "uid": "0003"
+    }
+}
