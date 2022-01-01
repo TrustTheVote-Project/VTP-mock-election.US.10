@@ -1,23 +1,18 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0002/9f335236ef",
+        "cast_branch": "CVRs/0003/cbcd482135",
         "choices": [
-            {
-                "name": "Brian Kemp",
-                "party": "Circle Party"
-            },
-            {
-                "name": "Bernie Sanders",
-                "party": "Triangle Party"
-            }
+            "Jean-Luc Picard",
+            "Huckleberry Finn",
+            "Peggy Carter"
         ],
-        "ggo": "GGOs/states/California",
+        "ggo": "GGOs/states/California/GGOs/counties/Alameda",
         "max": 1,
-        "name": "governor",
+        "name": "County Clerk",
         "selection": [
-            "1: Bernie Sanders"
+            "2: Peggy Carter"
         ],
         "tally": "plurality",
-        "uid": "0002"
+        "uid": "0003"
     }
 }
