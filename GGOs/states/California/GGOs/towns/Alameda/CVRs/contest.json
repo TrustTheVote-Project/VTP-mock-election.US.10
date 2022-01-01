@@ -1,33 +1,43 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0001/74a3737e47",
+        "cast_branch": "CVRs/0000/02225c8e1d",
         "choices": [
             {
-                "name": "Larry Hogan",
+                "name": "Mitt Romney",
                 "party": "Circle Party"
             },
             {
-                "name": "Greg Abbott",
+                "name": "Phil Scott",
                 "party": "Circle Party"
             },
             {
-                "name": "Pramila Jayapal",
-                "party": "Triangle Circle Party"
+                "name": "Ron DeSantis",
+                "party": "Circle Party"
             },
             {
-                "name": "Alexandria Ocasio-Cortez",
+                "name": "Kamala Harris",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "Cory Booker",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "Beta O'rourke",
                 "party": "Triangle Party"
             }
         ],
         "ggo": "GGOs/states/California",
-        "name": "US senate",
+        "name": "US president",
         "selection": [
-            "3: Alexandria Ocasio-Cortez",
-            "0: Larry Hogan",
-            "1: Greg Abbott",
-            "2: Pramila Jayapal"
+            "0: Mitt Romney",
+            "1: Phil Scott",
+            "2: Ron DeSantis",
+            "3: Kamala Harris",
+            "5: Beta O'rourke",
+            "4: Cory Booker"
         ],
         "tally": "rcv",
-        "uid": "0001"
+        "uid": "0000"
     }
 }
