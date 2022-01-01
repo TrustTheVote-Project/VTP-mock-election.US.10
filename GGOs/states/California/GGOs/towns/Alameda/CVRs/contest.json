@@ -1,17 +1,43 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0006/1a3684e00b",
+        "cast_branch": "CVRs/0000/62ad9bb785",
         "choices": [
-            true,
-            false
+            {
+                "name": "Mitt Romney",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Phil Scott",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Ron DeSantis",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Kamala Harris",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "Cory Booker",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "Beta O'rourke",
+                "party": "Triangle Party"
+            }
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
-        "max": 1,
-        "name": "Question 1 - school budget override",
+        "ggo": "GGOs/states/California",
+        "name": "US president",
         "selection": [
-            "1: no"
+            "4: Cory Booker",
+            "2: Ron DeSantis",
+            "5: Beta O'rourke",
+            "1: Phil Scott",
+            "3: Kamala Harris",
+            "0: Mitt Romney"
         ],
-        "tally": "plurality",
-        "uid": "0006"
+        "tally": "rcv",
+        "uid": "0000"
     }
 }
