@@ -1,6 +1,6 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0005/92770187d4",
+        "cast_branch": "CVRs/0005/ffaab60377",
         "choices": [
             {
                 "name": "Twenty Seven",
@@ -22,10 +22,10 @@
         "ggo": "GGOs/states/California/GGOs/towns/Alameda",
         "name": "mayor",
         "selection": [
-            "3: John Doe",
+            "0: Twenty Seven",
             "1: Twenty Eight",
             "2: Jane Doe",
-            "0: Twenty Seven"
+            "3: John Doe"
         ],
         "tally": "rcv",
         "uid": "0005"
