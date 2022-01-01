@@ -1,17 +1,33 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0006/093e6913da",
+        "cast_branch": "CVRs/0001/a75762528c",
         "choices": [
-            true,
-            false
+            {
+                "name": "Larry Hogan",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Greg Abbott",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Pramila Jayapal",
+                "party": "Triangle Circle Party"
+            },
+            {
+                "name": "Alexandria Ocasio-Cortez",
+                "party": "Triangle Party"
+            }
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
-        "max": 1,
-        "name": "Question 1 - school budget override",
+        "ggo": "GGOs/states/California",
+        "name": "US senate",
         "selection": [
-            "0: yes"
+            "2: Pramila Jayapal",
+            "3: Alexandria Ocasio-Cortez",
+            "0: Larry Hogan",
+            "1: Greg Abbott"
         ],
-        "tally": "plurality",
-        "uid": "0006"
+        "tally": "rcv",
+        "uid": "0001"
     }
 }
