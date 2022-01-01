@@ -1,18 +1,18 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0003/ea894ae1c6",
+        "cast_branch": "CVRs/0007/572dae9cd5",
         "choices": [
-            "Jean-Luc Picard",
-            "Huckleberry Finn",
-            "Peggy Carter"
+            true,
+            false
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda",
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
         "max": 1,
-        "name": "County Clerk",
+        "name": "Question 2 - new firehouse land purchase",
         "selection": [
-            "1: Huckleberry Finn"
+            "1: no"
         ],
         "tally": "plurality",
-        "uid": "0003"
+        "uid": "0007",
+        "win-by": "2/3"
     }
 }
