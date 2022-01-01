@@ -1,6 +1,6 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0005/cebb6d2475",
+        "cast_branch": "CVRs/0005/9a245a775f",
         "choices": [
             {
                 "name": "Twenty Seven",
@@ -23,9 +23,9 @@
         "name": "mayor",
         "selection": [
             "3: John Doe",
-            "0: Twenty Seven",
             "1: Twenty Eight",
-            "2: Jane Doe"
+            "2: Jane Doe",
+            "0: Twenty Seven"
         ],
         "tally": "rcv",
         "uid": "0005"
