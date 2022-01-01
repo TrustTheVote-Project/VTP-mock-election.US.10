@@ -1,6 +1,6 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0001/6f4d9d2398",
+        "cast_branch": "CVRs/0001/8f122b1e9d",
         "choices": [
             {
                 "name": "Larry Hogan",
@@ -23,9 +23,9 @@
         "name": "US senate",
         "selection": [
             "0: Larry Hogan",
+            "2: Pramila Jayapal",
             "3: Alexandria Ocasio-Cortez",
-            "1: Greg Abbott",
-            "2: Pramila Jayapal"
+            "1: Greg Abbott"
         ],
         "tally": "rcv",
         "uid": "0001"
