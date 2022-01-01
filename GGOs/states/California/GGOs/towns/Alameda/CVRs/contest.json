@@ -1,18 +1,33 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0003/61e0ebe788",
+        "cast_branch": "CVRs/0005/52fed86c91",
         "choices": [
-            "Jean-Luc Picard",
-            "Huckleberry Finn",
-            "Peggy Carter"
+            {
+                "name": "Twenty Seven",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Twenty Eight",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "Jane Doe",
+                "party": "Pentagon Party"
+            },
+            {
+                "name": "John Doe",
+                "party": "Rectangle Party"
+            }
         ],
-        "ggo": "GGOs/states/California/GGOs/counties/Alameda",
-        "max": 1,
-        "name": "County Clerk",
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
+        "name": "mayor",
         "selection": [
-            "2: Peggy Carter"
+            "1: Twenty Eight",
+            "3: John Doe",
+            "2: Jane Doe",
+            "0: Twenty Seven"
         ],
-        "tally": "plurality",
-        "uid": "0003"
+        "tally": "rcv",
+        "uid": "0005"
     }
 }
