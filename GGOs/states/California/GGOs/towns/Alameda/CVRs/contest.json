@@ -1,33 +1,23 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0005/53098c2771",
+        "cast_branch": "CVRs/0002/100fad3aa2",
         "choices": [
             {
-                "name": "Twenty Seven",
+                "name": "Brian Kemp",
                 "party": "Circle Party"
             },
             {
-                "name": "Twenty Eight",
+                "name": "Bernie Sanders",
                 "party": "Triangle Party"
-            },
-            {
-                "name": "Jane Doe",
-                "party": "Pentagon Party"
-            },
-            {
-                "name": "John Doe",
-                "party": "Rectangle Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
-        "name": "mayor",
+        "ggo": "GGOs/states/California",
+        "max": 1,
+        "name": "governor",
         "selection": [
-            "3: John Doe",
-            "0: Twenty Seven",
-            "2: Jane Doe",
-            "1: Twenty Eight"
+            "0: Brian Kemp"
         ],
-        "tally": "rcv",
-        "uid": "0005"
+        "tally": "plurality",
+        "uid": "0002"
     }
 }
