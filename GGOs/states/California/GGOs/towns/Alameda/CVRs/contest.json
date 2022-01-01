@@ -1,23 +1,33 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0002/a472a4dd2b",
+        "cast_branch": "CVRs/0001/8f822a3fd7",
         "choices": [
             {
-                "name": "Brian Kemp",
+                "name": "Larry Hogan",
                 "party": "Circle Party"
             },
             {
-                "name": "Bernie Sanders",
+                "name": "Greg Abbott",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Pramila Jayapal",
+                "party": "Triangle Circle Party"
+            },
+            {
+                "name": "Alexandria Ocasio-Cortez",
                 "party": "Triangle Party"
             }
         ],
         "ggo": "GGOs/states/California",
-        "max": 1,
-        "name": "governor",
+        "name": "US senate",
         "selection": [
-            "0: Brian Kemp"
+            "1: Greg Abbott",
+            "3: Alexandria Ocasio-Cortez",
+            "0: Larry Hogan",
+            "2: Pramila Jayapal"
         ],
-        "tally": "plurality",
-        "uid": "0002"
+        "tally": "rcv",
+        "uid": "0001"
     }
 }
