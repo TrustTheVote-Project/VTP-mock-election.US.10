@@ -1,17 +1,30 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0006/93c95d7201",
+        "cast_branch": "CVRs/0005/8b2a5190cb",
         "choices": [
-            true,
-            false
+            {
+                "name": "Twenty Seven",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Twenty Eight",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "Jane Doe",
+                "party": "Pentagon Party"
+            },
+            {
+                "name": "John Doe",
+                "party": "Rectangle Party"
+            }
         ],
         "ggo": "GGOs/states/California/GGOs/towns/Alameda",
-        "max": 1,
-        "name": "Question 1 - school budget override",
+        "name": "mayor",
         "selection": [
-            "0: yes"
+            "0: Twenty Seven"
         ],
-        "tally": "plurality",
-        "uid": "0006"
+        "tally": "rcv",
+        "uid": "0005"
     }
 }
