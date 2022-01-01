@@ -1,17 +1,18 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0006/09258fc6c3",
+        "cast_branch": "CVRs/0007/4893ad9871",
         "choices": [
             true,
             false
         ],
         "ggo": "GGOs/states/California/GGOs/towns/Alameda",
         "max": 1,
-        "name": "Question 1 - school budget override",
+        "name": "Question 2 - new firehouse land purchase",
         "selection": [
             "1: no"
         ],
         "tally": "plurality",
-        "uid": "0006"
+        "uid": "0007",
+        "win-by": "2/3"
     }
 }
