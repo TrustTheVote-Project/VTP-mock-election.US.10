@@ -1,18 +1,33 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0007/7811510f17",
+        "cast_branch": "CVRs/0001/31d7612476",
         "choices": [
-            true,
-            false
+            {
+                "name": "Larry Hogan",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Greg Abbott",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Pramila Jayapal",
+                "party": "Triangle Circle Party"
+            },
+            {
+                "name": "Alexandria Ocasio-Cortez",
+                "party": "Triangle Party"
+            }
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
-        "max": 1,
-        "name": "Question 2 - new firehouse land purchase",
+        "ggo": "GGOs/states/California",
+        "name": "US senate",
         "selection": [
-            "0: yes"
+            "3: Alexandria Ocasio-Cortez",
+            "2: Pramila Jayapal",
+            "0: Larry Hogan",
+            "1: Greg Abbott"
         ],
-        "tally": "plurality",
-        "uid": "0007",
-        "win-by": "2/3"
+        "tally": "rcv",
+        "uid": "0001"
     }
 }
