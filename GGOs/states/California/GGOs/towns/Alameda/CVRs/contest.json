@@ -1,6 +1,6 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0005/990830bc8f",
+        "cast_branch": "CVRs/0005/cadea60ee4",
         "choices": [
             {
                 "name": "Twenty Seven",
@@ -24,8 +24,8 @@
         "selection": [
             "0: Twenty Seven",
             "3: John Doe",
-            "2: Jane Doe",
-            "1: Twenty Eight"
+            "1: Twenty Eight",
+            "2: Jane Doe"
         ],
         "tally": "rcv",
         "uid": "0005"
