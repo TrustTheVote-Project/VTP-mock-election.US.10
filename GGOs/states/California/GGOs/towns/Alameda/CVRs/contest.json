@@ -1,33 +1,33 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0005/311c7f2876",
+        "cast_branch": "CVRs/0001/57a9985459",
         "choices": [
             {
-                "name": "Twenty Seven",
+                "name": "Larry Hogan",
                 "party": "Circle Party"
             },
             {
-                "name": "Twenty Eight",
+                "name": "Greg Abbott",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Pramila Jayapal",
+                "party": "Triangle Circle Party"
+            },
+            {
+                "name": "Alexandria Ocasio-Cortez",
                 "party": "Triangle Party"
-            },
-            {
-                "name": "Jane Doe",
-                "party": "Pentagon Party"
-            },
-            {
-                "name": "John Doe",
-                "party": "Rectangle Party"
             }
         ],
-        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
-        "name": "mayor",
+        "ggo": "GGOs/states/California",
+        "name": "US senate",
         "selection": [
-            "1: Twenty Eight",
-            "2: Jane Doe",
-            "0: Twenty Seven",
-            "3: John Doe"
+            "3: Alexandria Ocasio-Cortez",
+            "0: Larry Hogan",
+            "2: Pramila Jayapal",
+            "1: Greg Abbott"
         ],
         "tally": "rcv",
-        "uid": "0005"
+        "uid": "0001"
     }
 }
