@@ -1,1 +1,43 @@
-7+BVsxV5l2d2g0FYiRSYV6B6VoRJN1hzK815A9QkbZWjjvpMS1ixFJckRuUaj3Oo
+{
+    "CVR": {
+        "cast_branch": "CVRs/0000/9abd6954de",
+        "choices": [
+            {
+                "name": "Mitt Romney",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Phil Scott",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Ron DeSantis",
+                "party": "Circle Party"
+            },
+            {
+                "name": "Kamala Harris",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "Cory Booker",
+                "party": "Triangle Party"
+            },
+            {
+                "name": "Beta O'rourke",
+                "party": "Triangle Party"
+            }
+        ],
+        "ggo": "GGOs/states/California",
+        "name": "US president",
+        "selection": [
+            "4: Cory Booker",
+            "3: Kamala Harris",
+            "0: Mitt Romney",
+            "1: Phil Scott",
+            "5: Beta O'rourke",
+            "2: Ron DeSantis"
+        ],
+        "tally": "rcv",
+        "uid": "0000"
+    }
+}
