@@ -1,23 +1,17 @@
 {
     "CVR": {
-        "cast_branch": "CVRs/0002/53ded24e06",
+        "cast_branch": "CVRs/0006/af14383814",
         "choices": [
-            {
-                "name": "Brian Kemp",
-                "party": "Circle Party"
-            },
-            {
-                "name": "Bernie Sanders",
-                "party": "Triangle Party"
-            }
+            true,
+            false
         ],
-        "ggo": "GGOs/states/California",
+        "ggo": "GGOs/states/California/GGOs/towns/Alameda",
         "max": 1,
-        "name": "governor",
+        "name": "Question 1 - school budget override",
         "selection": [
-            "1: Bernie Sanders"
+            "1: no"
         ],
         "tally": "plurality",
-        "uid": "0002"
+        "uid": "0006"
     }
 }
