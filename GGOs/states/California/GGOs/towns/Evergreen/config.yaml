@@ -1,0 +1,17 @@
+---
+contests:
+- mayor:
+    tally: rcv
+    write-in: yes
+    choices:
+    - name: 39 40
+      party: Circle Party
+    - name: 41 42
+      party: Triangle Party
+    - name: 45 56
+      party: Rectangle Party
+voting centers:
+- Evergreen Senior Center:
+    address: 4321 Salem St
+    id: 000001
+submodules: []

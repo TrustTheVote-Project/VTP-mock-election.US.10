@@ -1,0 +1,43 @@
+---
+contests:
+- US president:
+    tally: rcv
+    choices:
+    - name: Mitt Romney
+      party: Circle Party
+    - name: Phil Scott
+      party: Circle Party
+    - name: Ron DeSantis
+      party: Circle Party
+    - name: Kamala Harris
+      party: Triangle Party
+    - name: Cory Booker
+      party: Triangle Party
+    - name: Beta O'rourke
+      party: Triangle Party
+- US senate:
+    tally: rcv
+    choices:
+    - name: Larry Hogan
+      party: Circle Party
+    - name: Greg Abbott
+      party: Circle Party
+    - name: Pramila Jayapal
+      party: Triangle Circle Party
+    - name: Alexandria Ocasio-Cortez
+      party: Triangle Party
+- governor:
+    tally: plurality
+    choices:
+    - name: Brian Kemp
+      party: Circle Party
+    - name: Bernie Sanders
+      party: Triangle Party
+GGOs:
+  counties:
+  - Alameda
+  - Santa Clara
+  towns:
+  - Alameda
+  - Evergreen
+submodules: []

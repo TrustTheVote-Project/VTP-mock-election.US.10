@@ -1,0 +1,13 @@
+---
+unique-ballots:
+- addresses:
+  - .* Street
+  ggos:
+  - GGOs/states/California
+  - GGOs/states/California/GGOs/counties/Alameda
+  - GGOs/states/California/GGOs/towns/Alameda
+- addresses:
+  - .* Road
+  ggos:
+  - GGOs/states/California
+  - GGOs/states/California/GGOs/towns/Alameda

@@ -1,0 +1,8 @@
+---
+unique-ballots:
+- addresses:
+  - .*
+  ggos:
+  - GGOs/states/California
+  - GGOs/states/California/GGOs/counties/Santa Clara
+  - GGOs/states/California/GGOs/towns/Evergreen

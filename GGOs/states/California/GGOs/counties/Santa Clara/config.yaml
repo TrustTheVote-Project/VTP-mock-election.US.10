@@ -1,0 +1,9 @@
+---
+contests:
+- County Clerk:
+    tally: plurality
+    choices:
+    - Luke Skywalker
+    - Padmé Amidala
+    - Bail Organs
+submodules: []

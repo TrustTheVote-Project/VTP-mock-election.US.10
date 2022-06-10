@@ -1,0 +1,29 @@
+---
+contests:
+- mayor:
+    tally: rcv
+    choices:
+    - name: Twenty Seven
+      party: Circle Party
+    - name: Twenty Eight
+      party: Triangle Party
+    - name: Jane Doe
+      party: Pentagon Party
+    - name: John Doe
+      party: Rectangle Party
+- Question 1 - school budget override:
+    tally: plurality
+    choices:
+    - yes
+    - no
+- Question 2 - new firehouse land purchase:
+    tally: plurality
+    win-by: 2/3
+    choices:
+    - yes
+    - no
+voting centers:
+- Alameda Senior Center:
+    street: 4321 B St
+    id: 000003
+submodules: []
