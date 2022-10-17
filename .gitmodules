@@ -1,0 +1,3 @@
+[submodule "VTP-core"]
+	path = VTP-core
+	url = https://github.com/TrustTheVote-Project/VTP-root-repo.git
