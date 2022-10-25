@@ -6,18 +6,27 @@ This repo represents current thoughts on how to configure an election for VoteTr
 
 This repo includes the VoteTrackerPlus repo as a git submodule.
 
-## How to stitch this repo into VTP-root-repo
+## How to clone this and the VoteTrackerPlus repos and setup up the CLI demo
 
 ```bash
-# clone both repos
-$ git clone --recurse-submodules git@github.com:TrustTheVote-Project/VTP-mock-election.US.10.git
+# clone both repos (https example)
+$ git clone --recurse-submodules https://github.com/TrustTheVote-Project/VTP-mock-election.US.10.git
 
 # Make sure there is a compatible python environment - any reasonable python framework can be used.
-# See the VTP-mock-election.US.10/VoteTrackerPlus/src/vtp/README.md file for more details.
+# See [VTP-mock-election.US.10/VoteTrackerPlus/src/vtp/README.md](https://github.com/TrustTheVote-Project/VoteTrackerPlus/tree/master/src/vtp)
+# for creating either a conda or poetry environment
+
+# Using conda (assumes conda/miniconda has been installed and the env vtp.01 has been created)
+$ cd VTP-mock-election.US.10/VoteTrackerPlus/src/vtp
 $ conda activate vtp.01
 
+# Using poetry (assumes that peotry has been installed)
+$ cd VTP-mock-election.US.10/VoteTrackerPlus
+$ poetry install
+$ poetry shell
+$ cd src/vtp
+
 # To setup a mock demo election, run the following:
-$ cd VTP-mock-election.US.10/VoteTrackerPlus/src/vtp
 $ ./setup_vtp_demp.py
 ```
 
