@@ -2,26 +2,22 @@
 
 This is work in progress - like in a major way.
 
-This repo represents current thoughts on how to configure an election for VoteTrackerPlus.  See the [VTP-root-repo](https://github.com/TrustTheVote-Project/VTP-root-repo) for more information.
+This repo represents current thoughts on how to configure an election for VoteTrackerPlus.  See the [VoteTrackerPlus](https://github.com/TrustTheVote-Project/VoteTrackerPlus) for more information.
 
-This repo is currently stitched into the VTP-root-repo via a symlink as opposed to a git submodule simply because doing so is just faster and easier at this point.  Once more stuff is working and has been framed out, the symlink will need to be converted to a submodule.
+This repo includes the VoteTrackerPlus repo as a git submodule.
 
 ## How to stitch this repo into VTP-root-repo
 
 ```bash
 # clone both repos
-$ git clone git@github.com:TrustTheVote-Project/VTP-root-repo.git
-$ git clone git@github.com:TrustTheVote-Project/VTP-mock-election.US.09.git
-$ cd VTP-root-repo
-$ ln -s ../VTP-mock-election.US.09 ElectionData
+$ git clone --recurse-submodules git@github.com:TrustTheVote-Project/VTP-mock-election.US.10.git
 
-# Make sure there is a compatible python environment - any reasonable
-# python framework can be used.  See the VTP-root-repo:./bin/README.md file
-# for more details.
+# Make sure there is a compatible python environment - any reasonable python framework can be used.
+# See the VTP-mock-election.US.10/VoteTrackerPlus/src/vtp/README.md file for more details.
 $ conda activate vtp.01
 
 # To setup a mock demo election, run the following:
-$ cd bin
+$ cd VTP-mock-election.US.10/VoteTrackerPlus/src/vtp
 $ ./setup_vtp_demp.py
 ```
 
