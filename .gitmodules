@@ -1,6 +1,0 @@
-[submodule "VoteTrackerPlus"]
-	path = VoteTrackerPlus
-	url = https://github.com/TrustTheVote-Project/VoteTrackerPlus.git
-[submodule "VTP-RCV-demo"]
-	path = VTP-RCV-demo
-	url = git@github.com:TrustTheVote-Project/VTP-RCV-demo.git
